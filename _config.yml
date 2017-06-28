@@ -1,63 +1,63 @@
-# Site settings
-title: Consensual Software
-email: email@example.com
-url: https://example.github.io
-description: "The Principles of Consensual Software"
-keywords: "your keywords, separated by commas"
-skills: "The How & Why of Consent in Software Design"
-meta_author: LastName FirstName
-
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url:
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url:
-  - title: bitbucket
-    url:
-  - title: github
-    url:
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Mother Earth,
-  - line: Milky Way
-
-# Credits content
-credits: 'All Credit to <a href="https://twitter.com/tsunamino">@tsunamino</a>'
-
 # Build settings
-markdown: kramdown
-permalink: pretty
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Consensual Software"
+description: > # this means to ignore newlines until "email:"
+   How Consent and Software Design Intersect
+
+email: hey@thelucasmoore.com
+#blog logo to be changed
+logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Danielle and Lucas'
+author: 'Danielle and Lucas'
+author_image: "/assets/images/author.jpg" # should be added
+
+paginate:	5
+
+url: "http://consensualsoftware.com" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@consensualsoftwaredesign' # does this exist?
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+#### social icons and sharing options
+# social:
+#   - icon:	twitter
+#     url:	https://twitter.com/consensualsoftwaredesign
+#     desc: Follow me on twitter
+#     share_url: http://twitter.com/share
+#     share_title: ?text=
+#     share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  # - icon:	github
+  #   url:	https://github.com/dirkfabisch
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
