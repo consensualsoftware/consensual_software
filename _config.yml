@@ -8,9 +8,9 @@ title: "Consensual Software"
 description: > # this means to ignore newlines until "email:"
    How Consent and Software Design Intersect
 
-email: hey@thelucasmoore.com
+email: admin@consensualsoftware.com
 #blog logo to be changed
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/cs_logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -25,7 +25,7 @@ paginate:	5
 url: "http://consensualsoftware.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@consensualsoftwaredesign' # does this exist?
+twitter_handle: '@consentsoftware'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname

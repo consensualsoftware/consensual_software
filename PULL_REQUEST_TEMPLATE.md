@@ -1,8 +1,3 @@
-Consensual Software
-========
-
-This is an open source site. Please open an issue or sign the pledge through a pull request.
-
 # To Sign The Pledge
 
 * [ ] Fork this Repo
