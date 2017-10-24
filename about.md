@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About Us
+date:   2017-08-20 14:34:25
 permalink: /about/
+image: /assets/article_images/header.jpg
 ---
 # About Us
 
