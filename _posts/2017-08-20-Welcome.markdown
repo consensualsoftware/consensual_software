@@ -27,6 +27,16 @@ Basically, if you're not sure you have someone's consent to do something - you s
 
 ## Consensual software
 
-Software that asks for your permission to interact with you or your data.
+Consensual software is software that asks for the user's explicit permission to interact with them or their data.
+
+Consensual software respects users' privacy and does not trick or coerce users into giving away permissions or data.
+
+Consensual software adheres to the [principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege), where the software should have the least amount of permissions granted possible.
+
+Consensual software informs [privacy by design](https://www.ipc.on.ca/wp-content/uploads/2013/09/pbd-primer.pdf) by making sure consent is the **default setting** and **embedded by design**.
+
+Consensual software builds social capital and trust with users by respecting their boundaries.
+
+Consensual software asks for permission first, rather than begging for forgiveness later. 
 
 # Why make this site?
