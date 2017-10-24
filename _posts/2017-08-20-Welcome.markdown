@@ -43,6 +43,10 @@ Consensual software informs [privacy by design](https://www.ipc.on.ca/wp-content
 
 Consensual software builds social capital and trust with users by respecting their boundaries.
 
-Consensual software asks for permission first, rather than begging for forgiveness later. 
+Consensual software asks for permission first, rather than begging for forgiveness later.
 
 # Why make this site?
+
+We wanted to make this site so that we could start a conversation about ethical, consensual software. We wanted to be sure that users' privacy and rights were being respected by building a framework that could be incorporated into our daily workflows.
+
+Tech is an inescapable part of our daily lives. With the Internet of Things and more and more wifi and Bluetooth-enabled devices in our homes, there's no protection for consumers' data from the companies that manufacture these devices. It's up to us as software engineers, product managers, and architects to build consent into every feature we build so that we protect the privacy of our users.
