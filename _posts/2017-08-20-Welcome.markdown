@@ -25,6 +25,12 @@ Implicit consent is also known as "assumed" consent - this is when a person assu
 
 Basically, if you're not sure you have someone's consent to do something - you should ask!
 
+## Consent is like tea
+
+If you're still not sure what consent is, it's as simple as tea.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oQbei5JGiT8" frameborder="0" allowfullscreen></iframe>
+
 ## Consensual software
 
 Consensual software is software that asks for the user's explicit permission to interact with them or their data.
