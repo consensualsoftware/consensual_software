@@ -3,8 +3,7 @@ layout: post
 title:  "Welcome"
 date:   2017-08-20 14:34:25
 categories: about
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+image: /assets/article_images/header.jpg
 ---
 
 This is an <a href="https://github.com/TheLucasMoore/consensual_software">open source project</a> advocating for better use consent in software design.

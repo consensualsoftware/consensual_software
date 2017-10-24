@@ -6,18 +6,18 @@ gems:
 # Site settings
 title: "Consensual Software"
 description: > # this means to ignore newlines until "email:"
-   How Consent and Software Design Intersect
+   Where Consent and Software Design Intersect
 
-email: admin@consensualsoftware.com
+email: hi@consensualsoftware.com
 #blog logo to be changed
 logo: "/assets/images/cs_logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/background_image.jpg"
 
-name: 'Danielle and Lucas'
-author: 'Danielle and Lucas'
+name: 'Danielle & Lucas'
+author: 'Danielle & Lucas'
 author_image: "/assets/images/author.jpg" # should be added
 
 paginate:	5
@@ -33,31 +33,9 @@ twitter_handle: '@consentsoftware'
 #google_analytics: UA-XXXXX-X
 
 #### social icons and sharing options
-# social:
-#   - icon:	twitter
-#     url:	https://twitter.com/consensualsoftwaredesign
-#     desc: Follow me on twitter
-#     share_url: http://twitter.com/share
-#     share_title: ?text=
-#     share_link: "&amp;url="
+social:
+  - icon:	twitter
+    url:	https://twitter.com/@consentsoftware
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  # - icon:	github
-  #   url:	https://github.com/dirkfabisch
-  #   desc:	Fork me on github
-  #   share_url:
-  #   share_title:
-  #   share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon:	github
+    url:	https://github.com/TheLucasMoore/consensual_software
