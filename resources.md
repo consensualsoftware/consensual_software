@@ -9,6 +9,10 @@ image: /assets/article_images/header.jpg
 ### Links
 * [Danielle's Recommended Readings](http://danielleleong.com/recommended-readings/) - Navigating the world of online harassment can be tricky, as one can get stuck on two questions: why do people do this and how can we fix it?
 
+* [Consensual Software: How to Prioritize User Safety](https://www.infoq.com/articles/consensual-software) - Many well-intentioned features can be abused to harass users. Building software with consent in mind helps prevent these loopholes before they happen.
+
+* [Consent lost (GDPR) and found (ePrivacy)]https://medium.com/mydata/consent-lost-gdpr-and-found-eprivacy-e85cf881ffb - European data protection and electronic privacy regulations are going through a major overhaul. When legislators started this process, wanting to give more weight to the interests of individuals, they were faced with a quandary: what to do about “consent”?
+
 ### Talks
 * [Security War Stories: The Battle for the Internet of Things](https://www.infoq.com/presentations/security-iot-2017?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=QConLondon2017) - Alasdair Allan focuses on the sort of security problems people face when building Internet of Things devices, and the underlying differences between the Internet of Things and the digital Internet that drive those security issues.
 
