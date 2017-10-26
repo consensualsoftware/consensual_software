@@ -1,18 +1,10 @@
 ---
-layout: post
-title:  "Welcome"
-date:   2017-08-20 14:34:25
-categories: about
+layout: page
+title: What is consent?
+date:   2017-10-26 14:34:25
+permalink: /what-is-consent/
 image: /assets/article_images/header.jpg
 ---
-
-This is an <a href="https://github.com/TheLucasMoore/consensual_software">open source project</a> advocating for better use consent in software design.
-
-# What is consent?
-
-Consent is most often discussed in terms of sex. "No means no" is a popular way to teach young people about inappropriate forms of sexual content.
-
-However, we believe that consent is much more nuanced and goes beyond sex. Explicit, informed consent should be applied to every aspect of our daily lives.
 
 ## Explicit consent
 
@@ -38,13 +30,13 @@ Consensual software respects users' privacy and does not trick or coerce users i
 
 Consensual software adheres to the [principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege), where the software should have the least amount of permissions granted possible.
 
-Consensual software informs [privacy by design](https://www.ipc.on.ca/wp-content/uploads/2013/09/pbd-primer.pdf) by making sure consent is the **default setting** and **embedded by design**.
+Consensual software informs [privacy by design](https://www.ipc.on.ca/wp-content/uploads/2013/09/pbd-primer.pdf) by making sure consent is the <strong>default setting</strong> and <strong>embedded by design</strong>.
 
 Consensual software builds social capital and trust with users by respecting their boundaries.
 
 Consensual software asks for permission first, rather than begging for forgiveness later.
 
-# Why make this site?
+## Why make this site?
 
 We wanted to make this site so that we could start a conversation about ethical, consensual software. We wanted to be sure that users' privacy and rights were being respected by building a framework that could be incorporated into our daily workflows.
 
