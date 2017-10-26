@@ -16,6 +16,7 @@ layout: default
     <h2 class="blog-description">{{ site.description }}</h2>
 
     <div class="custom-links">
+      <a href={{ "/what-is-consent/" | prepend: site.baseurl }}>What is consent?</a> -
       <a href={{ "/about/" | prepend: site.baseurl }}>About</a> -
       <a href={{ "/resources/" | prepend: site.baseurl }}> Resouces</a> -
       <a href={{ "/pledge/" | prepend: site.baseurl }}> Sign The Pledge</a> -
@@ -36,7 +37,11 @@ layout: default
 <main class="content" role="main">
     <p>This is an <a href="https://github.com/TheLucasMoore/consensual_software">open source project</a> advocating for better use consent in software design.</p>
 
-    {% include consent.html %}
+    <p>Consent is most often discussed in terms of sex. "No means no" is a popular way to teach young people about inappropriate forms of sexual content.</p>
+
+    <p>However, we believe that consent is much more nuanced and goes beyond sex. Explicit, informed consent should be applied to every aspect of our daily lives.</p>
+
+    <p>Read more about consent <a href="/what-is-consent">here</a>.
 
     {% if site.tags.featured %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
