@@ -24,6 +24,8 @@ If you're still not sure what consent is, it's as simple as tea.
 
 ## Consensual software
 
+Consensual software is a design pattern that asks for the user's consent. It can be applied to UX, software engineering, and data storage.
+
 Consensual software is software that asks for the user's explicit permission to interact with them or their data.
 
 Consensual software respects users' privacy and does not trick or coerce users into giving away permissions or data.
