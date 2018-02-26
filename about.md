@@ -11,7 +11,7 @@ We are two software engineers united by our concern about modern non-consensual 
 
 ## Danielle Leong
 
-Danielle Leong is an engineer on GitHub’s Community & Safety team who focuses on building consensual software and tools that help make online platforms safer, more welcoming, and inclusive. She is also the founder of <a href="https://feerless.us">Feerless</a>, an app that provides trigger warnings for Netflix users with PTSD. She’s passionate about online privacy, inclusivity in tech, mental health awareness, and improving online good citizenship. In her spare time, she takes mediocre photos of <a href="https://instagram.com/royalscoutness">her dog on Instagram</a>, dresses up as a dinosaur, and eats lots of pizza - occasionally all at the same time.
+Danielle Leong is the engineering manager for GitHub’s Community & Safety team who focuses on building consensual software and tools that help make online platforms safer, more welcoming, and inclusive. She is also the founder of <a href="https://feerless.us">Feerless</a>, an app that provides trigger warnings for Netflix users with PTSD. She’s passionate about online privacy, inclusivity in tech, mental health awareness, and improving online good citizenship. In her spare time, she takes mediocre photos of <a href="https://instagram.com/royalscoutness">her dog on Instagram</a>, dresses up as a dinosaur, and eats lots of pizza - occasionally all at the same time.
 
 ## Lucas Moore
 
