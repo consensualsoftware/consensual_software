@@ -33,8 +33,8 @@ Tech is an inescapable part of our daily lives. With the Internet of Things and 
 
 Add your name to the list of folks who pledge to check for consent when you are creating something!
 
-* [ ] Fork [this Repo](https://github.com/TheLucasMoore/consensual_software)
-* [ ] Add your name to `sign_the_pledge.md` at the root. [file](https://github.com/TheLucasMoore/consensual_software/blame/master/sign_the_pledge.md#L15)
+* [ ] Fork [this Repo](https://github.com/consensualsoftware/consensual_software)
+* [ ] Add your name to `sign_the_pledge.md` at the root. [file](https://github.com/consensualsoftware/consensual_software/blame/master/sign_the_pledge.md#L15)
 * [ ] Add your name, website and company information
-* [ ] Open a [Pull Request](https://github.com/TheLucasMoore/consensual_software/pulls)
+* [ ] Open a [Pull Request](https://github.com/consensualsoftware/consensual_software/pulls)
 * [ ] Share this site within your network!

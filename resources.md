@@ -27,4 +27,4 @@ image: /assets/article_images/header.jpg
 * [HTTPS Everywhere Browser Extension](https://www.eff.org/https-everywhere) - HTTPS Everywhere is an extension created by EFF and the Tor Project which automatically switches thousands of sites from insecure "http" to secure "https". Encrypt the web automatically!
 
 ### What else?
-* Please feel free to [open a pull request](https://github.com/TheLucasMoore/consensual_software/pulls), [tweet at us](https://twitter.com/@consentsoftware) or send us an email if you want to share links to go here.
+* Please feel free to [open a pull request](https://github.com/consensualsoftware/consensual_software/pulls), [tweet at us](https://twitter.com/@consentsoftware) or send us an email if you want to share links to go here.
