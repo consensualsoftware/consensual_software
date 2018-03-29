@@ -3,7 +3,7 @@ Consensual Software
 
 Consent is most often discussed in terms of sex. "No means no" is a popular way to teach young people about inappropriate forms of sexual content.
 
-However, we believe that consent is much more nuanced and goes beyond sex. Explicit, informed consent should be applied to every aspect of our daily lives.
+However, we believe that explicit, informed consent should be applied to every aspect of our daily lives.
 
 ## Consensual software
 
