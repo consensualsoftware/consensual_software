@@ -23,7 +23,7 @@ GEM
     coffee-script-source (1.9.1.1)
     colorator (0.1)
     ethon (0.7.4)
-      ffi (>= 1.9.25)
+      ffi (>= 1.9.24)
     execjs (2.6.0)
     fast-stemmer (1.0.2)
     ffi (1.9.10)
