@@ -8,4 +8,4 @@ image: /assets/article_images/header.jpg
 
 # Consulting
 
-Looking to improve your company's product but not quite sure where to start? For a more in-depth look into your product workflow and technical stack, contact Danielle at hi@consensualsoftware.com. 
+Looking to improve your company's product but not quite sure where to start? Consensual Software will provide a more in-depth look into your product workflow and technical stack. For more information contact Danielle at hi@consensualsoftware.com.. 
