@@ -15,4 +15,4 @@ Add your name by [opening a pull request](https://github.com/consensualsoftware/
 
 ### Signed,
 
-* [My Name](#) - Company Name (optional)
+* [Nagee Elghassein](http://isthisnagee.com)
